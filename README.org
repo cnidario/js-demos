@@ -1,0 +1,6 @@
+* Mini projects in Javascript for demo
+** Contents
+ - =fireworks= :: Failed attempt to a simple particle generator of a simple fireworks effect.
+ - =twgl-cube= :: A rotating cube in [[https://twgljs.org/][twgl]]
+** Usage
+You need [[https://parceljs.org/][parcel]]. And ~yarn install~ to pull dependencies. Then ~parcel index.html~ would create a local server with dynamic hot loading replacement on change.
